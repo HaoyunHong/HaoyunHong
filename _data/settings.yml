@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Haoyun Hong
 my-job: Computer Science and Data Science
-description: I’m a product designer, illustrator & side-project enthusiast. I’m currently build great products at Pixel Media.
+description: I’m an undergraduate of Tsinghua University, majoring in Computer Science, and minoring in Statistics. My research interest is in Natural Language Processing, Knowledge Engineering, and Blockchain.
 email: jacquelinehhy99@gmail.com
 
 #-------------------------------
@@ -23,58 +23,60 @@ email: jacquelinehhy99@gmail.com
 
 skills-title: Professional Skills
 skills:
-- {name: Communication, value: '90'}
+- {name: Communication, value: '95'}
 - {name: Learning, value: '95'} 
-- {name: Planning, value: '60'}
-- {name: Visual Design, value: '80'}
-- {name: UX Design, value: '85'}
-- {name: Programming, value: '70'}
+- {name: Python, value: '90'}
+- {name: C/C++, value: '90'}
+- {name: Java, value: '85'}
+- {name: R, value: '90'}
+- {name: Pytorch, value: '90'}
+- {name: Tensorflow, value: '80'}
+- {name: CSS/Javascript, value: '80'}
+- {name: Qt, value: '85'}
+- {name: MySQL, value: '85'}
+- {name: Go, value: '80'}
 
 #-------------------------------
 # Experience Section
 
-experience-title: Experience
+experience-title: Research Experience
 experience:
-- {company-name: Industry Design & Media, duration: 2015 - 2018, job-position: Graphic and Web Designer in San Francisco, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {company-name: A paper on Knowledge Graph submitted to NeurIPS 2021, duration: 2019.11 - 2021.2, job-position: Research Assistant, description: I started to work on this research project in Professor Jie Tang's KEG Lab of THU in the summer of 2020. We develop a self-supervised entity alignment algorithm to automatically align entities without training labels. The experiments on two widely-used benchmarks DWY100K and DBP15K show that our model is able to beat all previous semi-supervised alignment methods and most of the supervised alignment methods. Our discovery indicates a huge potential to get rid of supervision in the entity alignment problem, and more studies are expected for a deeper understanding of self-supervised learning. I did almost all the programming work in this project, and I am the first author of this paper. This work has been submit it to NeurIPS 2021.}
 
-- {company-name: Graphic Design, duration: 2011 - 2015, job-position: Senior Illustrator in Milan, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {company-name: A Student Research Training (SRT) on the vulnerabilities of blockchain, duration: 2020.11 - 2021.3, job-position: SRT student, description: This SRT is under the guidance of Professor Zhixuan Fang, Institute for Interdisciplinary Information Science, THU. The score he gave me for this SRT is A, and we already have some results for further research.}
 
-- {company-name: Pixel Media, duration: 2008 - 2011, job-position: Designer in Chicago, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {company-name: Online overseas research with Professor Dawn Song, duration: 2021.3 - 2021.10, job-position: Research Assistant, description: We have submitted a paper on knowledge extraction with pretrained language models to EMNLP 2021. We are working on a project aiming at submitting the work to ICLR 2021.}
 
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
-- {degree: Master Degree, years: 2002 - 2006, organization: University of Creative Minds, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Mechanical Engineering (undergraduate, adjusted), years: 2017.9 - 2019.6, organization: Tsinghua University, description: In September 2018, aŌer one year of seeking, I found my great passion and interest in Computer Science. Although I had no CS knowledge before college, I worked very hard and was recognized by professors, and finally changed my major to CS successfully.}
 
-- {degree: Bachelores Degree, years: 1998 - 2002, organization: University of Creative Minds, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Computer Science and Technology (undergraduate, major), years: 2019.6 - 2022.7, organization: Tsinghua University, description: I did well in most of the major courses in CS. I tried my best in every capstone project, and the professors, as well as I, are satisfied with them. A good grade should not be the ultimate goal. The most important thing is to really master knowledge and skills, be inspired, and have a strong anti-frustration ability.}
 
-- {degree: Specialised Coursework, years: 1997 - 1998, organization: University of Boston, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Statistics (undergraduate, minor), years: 2018.9 - 2022.7, organization: University of Boston, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
 
 #-------------------------------
 # Clients Section
-clients-title: Clienst
+clients-title: Awards
 clients:
 - {
-  name: "Dianna Smiley",
-  title: "Social Media, Co and Co",
-  quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
+  name: "Tsinghua Univesity",
+  quote: "<p><strong>Rated A in the Academic Promotion Plan, and received 50000 CNY of financial support.</strong></p>"
 }
 - {
-  name: "Loki Bright",
-  title: "Director of Design, New Devi Art",
-  quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
+  name: "Tsinghua University",
+  quote: "<p><strong>Science and Technology Innovation Scholarship</strong></p>"
 }
 - {
-  name: "Korbyn Colon",
-  title: "Art Director, LTD Corporate",
-  quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
+  name: "Tsinghua University",
+  quote: "<p><strong>Social Work Excellence Scholarship</strong></p>"
 }
 - {
-  name: "Gracelyn Mason",
-  title: "Journalist, The Best Newspaper",
-  quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
+  name: "Tsinghua University",
+  quote: "<p><strong>Second prize of the 37th Challenge Cup</strong></p>"
 }
 
 #-------------------------------
@@ -110,9 +112,6 @@ projects:
 # Social Settings
 
 social:
-- {link: "https://facebook.com", icon: ion-logo-facebook }
-- {link: "https://twitter.com", icon: ion-logo-twitter }
-- {link: "https://dribbble.com", icon: ion-logo-dribbble }
 - {link: "https://linkedin.com", icon: ion-logo-linkedin }
 - {link: "https://github.com", icon: ion-logo-github }
 
