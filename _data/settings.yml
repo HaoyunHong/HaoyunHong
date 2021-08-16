@@ -115,8 +115,8 @@ projects:
 # Social Settings
 
 social:
-- {link: "https://linkedin.com", icon: ion-logo-linkedin }
-- {link: "https://github.com", icon: ion-logo-github }
+- {link: "https://www.linkedin.com/in/haoyunhong-jacqueline/", icon: ion-logo-linkedin }
+- {link: "https://github.com/HaoyunHong/", icon: ion-logo-github }
 
 # social network icons available (https://ionicons.com/): 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
 
