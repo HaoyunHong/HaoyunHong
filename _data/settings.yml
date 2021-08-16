@@ -64,20 +64,22 @@ clients-title: Awards
 clients:
 - {
   # name: "Tsinghua Univesity",
-  quote: "<p><strong>Rated A in the Academic Promotion Plan, and received 50000 CNY of financial support.</strong></p>"
+  quote: "<p><strong>Rated A in the Academic Promotion Plan, and received 50000 CNY of financial support.</strong></p>",
+  title: Tsinghua University,
 }
 - {
   # name: "Tsinghua University",
-  quote: "<p><strong>Science and Technology Innovation Scholarship</strong></p>"
+  quote: "<p><strong>Science and Technology Innovation Scholarship</strong></p>",
+  title: Tsinghua University,
 }
 - {
   # name: "Tsinghua University",
-  quote: "<p><strong>Social Work Excellence Scholarship</strong></p>"
+  quote: "<p><strong>Social Work Excellence Scholarship</strong></p>",
+  title: Tsinghua University,
 }
 - {
-  # name: "Tsinghua University",
-  # title:,
-  quote: "<p><strong>Second prize of the 37th Challenge Cup</strong></p>"
+  quote: "<p><strong>Second prize of the 37th Challenge Cup</strong></p>",
+  title: Tsinghua University,
 }
 
 #-------------------------------
