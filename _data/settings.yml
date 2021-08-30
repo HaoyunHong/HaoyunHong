@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Haoyun Hong
 my-job: Computer Science and Data Science
-description: I’m an undergraduate of Tsinghua University. My research interest is in Natural Language Processing, Knowledge Engineering, and Blockchain.
+description: I’m an undergraduate of Tsinghua University. My research interest is in Knowledge Engineering, Natural Language Processing, and Blockchain.
 email: jacquelinehhy99@gmail.com
 
 #-------------------------------
@@ -45,7 +45,7 @@ experience:
 
 - {company-name: A Student Research Training (SRT) on the vulnerabilities of blockchain, duration: 2020.11 - 2021.3, job-position: SRT student, description: "This SRT is under the guidance of Professor Zhixuan Fang, Institute for Interdisciplinary Information Science, THU. The score he gave me for this SRT is A, and we already have some results for further research."}
 
-- {company-name: Online overseas research with Professor Dawn Song, duration: 2021.3 - 2021.10, job-position: Research Assistant, description: "We have submitted a paper on knowledge extraction with pretrained language models to EMNLP 2021. We are working on a project aiming at submitting the work to ICLR 2021."}
+- {company-name: Online overseas research with Professor Dawn Song, duration: 2021.3 - 2021.10, job-position: Research Assistant, description: "We have submitted a paper on knowledge extraction with pretrained language models to EMNLP 2021, called "Zero-Shot Information Extractions as a Unified Text-to-Triple Translation", which has been has been accepted to appear in the main conference. We are working on a project aiming at submitting the work to ICLR 2022 or ACL 2022."}
 
 #-------------------------------
 # Education Section
