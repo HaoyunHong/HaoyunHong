@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Haoyun Hong
 my-job: Computer Science and Data Science
-description: I’m an undergraduate of Tsinghua University. My research interest is in Knowledge Engineering, Natural Language Processing, and Blockchain.
+description: I just receive my bachelor degree from Tsinghua University, and will pursue my master degree in Tsinghua University and The University of Washington (Seattle) very soon. My research interest is in Knowledge Engineering, Natural Language Processing, and Blockchain.
 email: jacquelinehhy99@gmail.com
 
 #-------------------------------
@@ -41,27 +41,41 @@ skills:
 
 experience-title: Research Experience
 experience:
-- {company-name: A paper on Knowledge Graph accepted by WWW 2022, duration: 2019.11 - 2021.2, job-position: Research Assistant, description: "I started to work on this research project in Professor Jie Tang's KEG Lab of THU in the summer of 2020. We develop a self-supervised entity alignment algorithm to automatically align entities without training labels. The experiments on two widely-used benchmarks DWY100K and DBP15K show that our model is able to beat all previous semi-supervised alignment methods and most of the supervised alignment methods. Our discovery indicates a huge potential to get rid of supervision in the entity alignment problem, and more studies are expected for a deeper understanding of self-supervised learning. I did almost all the programming work in this project, and I am the first author of this paper. Our code is here https://github.com/THUDM/SelfKG."}
+- {company-name: My paper as a first author was accepted by The Web Conference 2022 (nominated as a best paper), duration: 2019.11 - 2022.5, job-position: Research Assistant, description: "I started to work on this research project in Professor Jie Tang's KEG Lab of THU in the summer of 2020. We develop a self-supervised entity alignment algorithm to automatically align entities without training labels. The experiments on two widely-used benchmarks DWY100K and DBP15K show that our model is able to beat all previous semi-supervised alignment methods and most of the supervised alignment methods. Our discovery indicates a huge potential to get rid of supervision in the entity alignment problem, and more studies are expected for a deeper understanding of self-supervised learning. I did almost all the programming work in this project, and I am the first author of this paper. Our code is here https://github.com/THUDM/SelfKG."}
 
-- {company-name: A Student Research Training (SRT) on the vulnerabilities of blockchain, duration: 2020.11 - 2021.3, job-position: SRT student, description: "This SRT is under the guidance of Professor Zhixuan Fang, Institute for Interdisciplinary Information Science, THU. The score he gave me for this SRT is A, and we already have some results for further research."}
+- {company-name: Published two international top conference papers in cooperation with the University of California Berkeley, duration: 2021.3 - 2021.10, job-position: Research Assistant, description: 'As a research assistant in the lab of Prof. Dawn Song (the former dean of DCS, UCB), I have published two papers in Natural Language Processing, one of which was received by EMNLP 2021 and the other by ACL 2022.'}
 
-- {company-name: Online overseas research with Professor Dawn Song, duration: 2021.3 - 2021.10, job-position: Research Assistant, description: 'We have submitted a paper on knowledge extraction with pretrained language models to EMNLP 2021, called "Zero-Shot Information Extractions as a Unified Text-to-Triple Translation", which has been has been accepted to appear in the main conference. We are working on a project aiming at submitting the work to ICLR 2022 or ACL 2022.'}
+- {company-name: Student Research Training project on Blockchain, duration: 2020.11 - 2021.3, job-position: Research Assistant, description: "Under the guidance of Prof. Zhixuan Fang from the Institution of Interdiscipline Information Science of THU, the data in the transaction pool in a Blockchain system were collected and analyzed, and abnormal phenomena worthy of further study were found. I obtain an A in this project."}
 
+- {company-name: Got an A in the Internet Data Analysis Program of Oxford University, duration: 2021.2 - 2021.3, job-position: Student, description: ""}
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
-- {degree: "Mechanical Engineering (Experimental Class) (undergraduate, adjusted)", years: 2017.9 - 2019.6, organization: Tsinghua University, description: "In September 2018, after one year of seeking, I found my great passion and interest in Computer Science. Although I had no CS knowledge before college, I worked very hard and was recognized by professors, and finally changed my major to CS successfully."}
+- {degree: "Mechanical Engineering (Pilot Class)", years: 2017.9 - 2019.6, organization: Tsinghua University, description: "After exploring various disciplines in my freshman year, I found that I had a strong interest in CS through a course delivered by Prof. Andrew Yao, a Turing Award winner. So I took computer courses in my sophomore year, achieved excellent results, and successfully transferred to the Department of CS."}
 
-- {degree: "Computer Science and Technology (undergraduate, major)", years: 2019.6 - 2022.7, organization: Tsinghua University, description: "I did well in most of the major courses in CS. I tried my best in every capstone project, and the professors, as well as I, are satisfied with them. A good grade should not be the ultimate goal. The most important thing is to really master knowledge and skills, be inspired, and have a strong anti-frustration ability."}
+- {degree: "Computer Science and Technology (Major)", years: 2019.6 - 2022.6, organization: Tsinghua University, description: "I achieve full grade points in most specific courses and make every capstone project satisfactory to me. Instead of a high GPA, the most important thing is to learn the essence of knowledge and find my passion."}
 
-- {degree: "Statistics (undergraduate, minor)", years: 2018.9 - 2022.7, organization: Tsinghua University, description: "Minoring in Statistics can improve my ability in mathematics, data mining, and machine learning theory. I also like the different way of thinking in Statistics from CS. I was admitted into the Statistics Minor Program via exams and have made continuous progress during my learning process."}
+- {degree: "Statistics (Minor)", years: 2018.9 - 2022.6, organization: Tsinghua University, description: "I love statistics because it can obtain useful information from data full of randomness. It has a different but complementary way of thinking from CS. It's also closely related to machine learning and business research."}
 
+- {degree: "Business Innovation Design Program", years: 2018.9 - 2022.6, organization: Tsinghua University, description: "I hope my research background can intersect with business and make something innovative. I won the Best Bussiness Analysis Award and the Best Team Leader Award in this program."}
+
+- {degree: "Global Innovation Exchange (Master Degree)", years: 2022.8 - now, organization: Tsinghua University and The University of Washington (Seattle), description: "With the highest overall score, I am admitted to the Department of GIX of THU. I will study for the master's degree in Data Science and Information Technology of THU and the master's degree in Technological Innovation of the University of Washington (Seattle campus) in September this year."}
 #-------------------------------
 # Clients Section
 clients-title: Awards
 clients:
+- {
+  # name: "Tsinghua Univesity",
+  quote: "<p><strong>Tsinghua University Excellent Graduation Thesis Award, recommended to Beijing Excellent Graduation Thesis Award with the ranking of the first in the Department of CST.</strong></p>",
+  title: Tsinghua University,
+}
+- {
+  # name: "Tsinghua Univesity",
+  quote: "<p><strong>Outstanding Graduate of the Department of CST of Tsinghua University.</strong></p>",
+  title: Tsinghua University,
+}
 - {
   # name: "Tsinghua Univesity",
   quote: "<p><strong>Rated A in the Academic Promotion Plan, and received 50000 CNY of financial support.</strong></p>",
